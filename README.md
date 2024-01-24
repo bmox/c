@@ -1,7 +1,7 @@
 # c
 [gcc](https://github.com/bmox/c/raw/main/gcc.zip) <br>
 [C](https://github.com/bmox/c/raw/main/C.zip) <br>
-[linux](https://github.com/bmox/raw/main/linux.zip) <br>
+[linux](https://github.com/bmox/c/raw/main/linux.zip) <br>
 
 ```
 import requests
